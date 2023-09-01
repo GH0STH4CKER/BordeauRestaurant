@@ -1,0 +1,36 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+(function(t,r,i,p){i=t.createElement(r);i.src="https://web.archive.org/web/20220316140133/https://www.tripadvisor.com/WidgetEmbed-selfserveprop?border=true&popIdx=true&iswide=false&locationId=8409799&display_version=2&uniq=136&rating=true&lang=en_US&nreviews=5&writereviewlink=true";i.async=true;p=t.getElementsByTagName(r)[0];p.parentNode.insertBefore(i,p)})(document,"script");
+
+
+}
+/*
+     FILE ARCHIVED ON 14:01:33 Mar 16, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:58:35 Sep 01, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 163.717
+  exclusion.robots: 0.115
+  exclusion.robots.policy: 0.104
+  cdx.remote: 0.076
+  esindex: 0.012
+  LoadShardBlock: 105.587 (3)
+  PetaboxLoader3.datanode: 151.059 (4)
+  load_resource: 128.689
+  PetaboxLoader3.resolve: 52.611
+*/
