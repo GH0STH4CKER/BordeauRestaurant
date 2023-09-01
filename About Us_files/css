@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Abril Fatface';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url(https://web.archive.org/web/20211216191631im_/http://fonts.gstatic.com/s/abrilfatface/v12/zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url(https://web.archive.org/web/20211216191631im_/http://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfedw.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 19:16:31 Dec 16, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:00:09 Sep 01, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 171.034
+  exclusion.robots: 0.078
+  exclusion.robots.policy: 0.069
+  cdx.remote: 0.056
+  esindex: 0.009
+  LoadShardBlock: 141.456 (3)
+  PetaboxLoader3.datanode: 88.302 (4)
+  load_resource: 74.565
+  PetaboxLoader3.resolve: 43.725
+*/
